@@ -1,4 +1,4 @@
-# Csharp Theme Engine
+# EasyDarkMode, Csharp Theme Engine
 
 ![Showcase.gif](/Showcase.gif)
 
